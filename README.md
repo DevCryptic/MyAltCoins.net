@@ -1,0 +1,2 @@
+# MyAltCoins.net
+ 
