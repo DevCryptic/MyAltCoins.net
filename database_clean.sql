@@ -1,4 +1,4 @@
--- MySQL dump 10.15  Distrib 10.0.33-MariaDB, for Linux (x86_64)
+-- MySQL dump 10.16  Distrib 10.0.33-MariaDB, for Linux (x86_64)
 --
 -- Host: localhost    Database: coins
 -- ------------------------------------------------------
